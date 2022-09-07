@@ -1,0 +1,18 @@
+.bg-dark {
+    background-image: url(../images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav {
+    font-size: 120%;
+    font-weight: 600;
+}
+.gallery {
+    width: 100%;
+    transition: all .33s ease-out;
+}
+
+.gallery:hover {
+    transform: rotate(2deg);
+}
